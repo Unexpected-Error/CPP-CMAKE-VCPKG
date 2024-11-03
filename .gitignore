@@ -1,0 +1,18 @@
+# Directories
+.vs/
+.vscode/
+Binaries/
+build/
+
+# Files
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.log
+Makefile
+CMakeUserPresets.json
+
+.DS_Store
+
+vcpkg_installed/
