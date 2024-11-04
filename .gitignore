@@ -1,6 +1,6 @@
 # Directories
 .vs/
-.vscode/
+# .vscode/
 Binaries/
 build/
 

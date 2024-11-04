@@ -7,7 +7,7 @@ Update these files with project Names/Descriptions
 1. vcpkg.json
 2. CMakeLists
 
-
+Uncomment some items in .gitignore
 
 
 ## VCPKG
